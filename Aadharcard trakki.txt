@@ -1,6 +1,6 @@
 {
-	"adstatus": false,
-	"specificad": false,
+	"adstatus": true,
+	"specificad": true,
 	"alternatead": false,
 	"alternate_data": {
 		"Appopen": "Admob",
@@ -22,10 +22,10 @@
 		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
 	"Applovin": {
-		"Applovin_adstatus": false,
-		"Applovin_Interstrial": "",
-		"Applovin_Native": "",
-		"Applovin_Banner": ""
+		"Applovin_adstatus": true,
+		"Applovin_Interstrial": "95f73851e8cfb176",
+		"Applovin_Native": "eced98f6a0db9062",
+		"Applovin_Banner": "323bd547758ecff7"
 	},
 	"AdCounter": {
 		"Inter_count": 0,
@@ -39,7 +39,7 @@
 	"AdDialog": false,
 	"BackAd": false,
 	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "0",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
 
